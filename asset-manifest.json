@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cacdb75d.css",
+    "main.js": "/static/js/main.7ce9208b.js",
+    "static/js/453.1ae2e41a.chunk.js": "/static/js/453.1ae2e41a.chunk.js",
+    "static/media/chicken_pineapple.png": "/static/media/chicken_pineapple.cc8b779a01777b0e93c4.png",
+    "static/media/calzone.png": "/static/media/calzone.35c890ddc6f5c6d041e0.png",
+    "static/media/pizza.jpg": "/static/media/pizza.5c6cc7b19c6c8e3fe6bb.jpg",
+    "static/media/bacon.png": "/static/media/bacon.f9cd5997fe577a989d92.png",
+    "static/media/mushroom.png": "/static/media/mushroom.ca321af1727d863c21c8.png",
+    "static/media/margherita.png": "/static/media/margherita.4b72ced646f66a809ef1.png",
+    "static/media/vegetarian.avif": "/static/media/vegetarian.39287ca1472d02ec9b6b.avif",
+    "static/media/pepperoni.png": "/static/media/pepperoni.ff31edcd063ee517d12e.png",
+    "static/media/four_cheese.jpg": "/static/media/four_cheese.0b65b44d8698608cf96a.jpg",
+    "static/media/hawaiian.avif": "/static/media/hawaiian.cc44d288ff70dd496fab.avif",
+    "static/media/seafood.png": "/static/media/seafood.d6c0634ef37cb399eb6e.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.cacdb75d.css.map": "/static/css/main.cacdb75d.css.map",
+    "main.7ce9208b.js.map": "/static/js/main.7ce9208b.js.map",
+    "453.1ae2e41a.chunk.js.map": "/static/js/453.1ae2e41a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cacdb75d.css",
+    "static/js/main.7ce9208b.js"
+  ]
+}
